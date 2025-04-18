@@ -120,7 +120,7 @@ ta-lib==0.6.3
 tenacity==9.0.0
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow==2.16.1
+tensorflow==2.19.0
 tensorflow-io-gcs-filesystem==0.37.1
 termcolor==2.5.0
 tf_keras==2.19.0

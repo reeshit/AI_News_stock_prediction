@@ -30,4 +30,4 @@ This project is an end-to-end AI-powered stock market prediction system that com
 
 ## 📂 Project Structure
 
- stock-predictor-app/ ├── data/ # Historical stock and news data ├── models/ # Trained LSTM, GRU, and hybrid models ├── sentiment/ # Scripts for news scraping and sentiment analysis ├── app.py # Streamlit frontend application ├── utils.py # Helper functions for preprocessing, visualization ├── requirements.txt # Python dependencies └── README.md # Project documentation
+ stock-predictor-app/ ├── data/ # Historical stock and news data ├── models/ # Trained LSTM, GRU, and hybrid models ├── sentiment/ # Scripts for news scraping and sentiment analysis ├── app.py # Streamlit frontend application ├── utils.py # Helper functions for preprocessing, visualization ├── requirements.txt # Python dependencies └── README.md # Project documentation.
